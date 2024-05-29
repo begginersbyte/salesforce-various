@@ -1,6 +1,6 @@
 import json
 import boto3
-import os
+import os 
 import sys
 import urllib3
 from urllib.parse import urlencode
